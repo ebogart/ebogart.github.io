@@ -1,12 +1,9 @@
 # Site settings
 title: Eli Bogart
-email: elb87@cornell.edu
-description: > # this means to ignore newlines until "baseurl:"
-  Computational biology/physics grad student at Cornell.
-baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: eli_bogart
-github_username:  ebogart
+tag_text: Eli Bogart
+description: Computational biology grad student at Cornell.
 
 # Build settings
 markdown: kramdown
+
+#exclude: ["README.md"]
