@@ -26,7 +26,7 @@ leaves.](http://arxiv.org/abs/1502.07969) Submitted to _PLoS
 Computational Biology_.
 
 * Franck, C., W. Ip, A. Bae, N. Franck, E. Bogart, and T. T. Le
-(2008). Contact-mediated cell-assisted cell prolif- eration in a model
+(2008). Contact-mediated cell-assisted cell proliferation in a model
 eukaryotic single-cell organism: an explanation for the lag phase in
 shaken cell culture.  _Phys. Rev. E_ 77: 041905
 
