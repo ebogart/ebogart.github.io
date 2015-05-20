@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-I am a PhD student in the Department of Physics at Cornell University,
-advised by [Chris Myers](http://cbsu.tc.cornell.edu/staff/myers/). 
+I recently completed my PhD in the Department of Physics at Cornell
+University, where I was advised by [Chris
+Myers](http://cbsu.tc.cornell.edu/staff/myers/).
 
 ## Research
 
-My thesis research has focused on genome-scale models of metabolism in
+My thesis research focused on genome-scale models of metabolism in
 C4 plants. I developed [software to construct and solve flux balance
 analysis problems with nonlinear
 constraints](http://github.com/ebogart/fluxtools), a new
