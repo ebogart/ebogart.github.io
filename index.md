@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+I am a postdoc in the lab of [Georg Gerber](http://gerber.bwh.harvard.edu) at Brigham and Women's Hospital.
+
 I recently completed my PhD in the Department of Physics at Cornell
 University, where I was advised by [Chris
 Myers](http://cbsu.tc.cornell.edu/staff/myers/).
@@ -23,8 +25,7 @@ phenotypic fitness landscapes.
 * Bogart, E. and C. R. Myers (2015). [Multiscale metabolic modeling of
 C4 plants: connecting nonlinear genome-scale models to leaf-scale
 metabolism in developing maize
-leaves.](http://arxiv.org/abs/1502.07969) Submitted to _PLoS
-Computational Biology_.
+leaves.](http://arxiv.org/abs/1502.07969) 
 
 * Franck, C., W. Ip, A. Bae, N. Franck, E. Bogart, and T. T. Le
 (2008). Contact-mediated cell-assisted cell proliferation in a model
