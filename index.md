@@ -25,7 +25,7 @@ phenotypic fitness landscapes.
 * Bogart, E. and C. R. Myers (2015). [Multiscale metabolic modeling of
 C4 plants: connecting nonlinear genome-scale models to leaf-scale
 metabolism in developing maize
-leaves.](http://arxiv.org/abs/1502.07969) 
+leaves.](http://arxiv.org/abs/1502.07969) _PLOS ONE,_ in press.
 
 * Franck, C., W. Ip, A. Bae, N. Franck, E. Bogart, and T. T. Le
 (2008). Contact-mediated cell-assisted cell proliferation in a model
