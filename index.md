@@ -22,10 +22,10 @@ phenotypic fitness landscapes.
 
 * Bogart, E. and C. R. Myers. Genome-scale modeling of the evolutionary path to C4 photosynthesis. _In preparation_.
 
-* Bogart, E. and C. R. Myers (2015). [Multiscale metabolic modeling of
+* Bogart, E. and C. R. Myers (2016). [Multiscale metabolic modeling of
 C4 plants: connecting nonlinear genome-scale models to leaf-scale
 metabolism in developing maize
-leaves.](http://arxiv.org/abs/1502.07969) _PLOS ONE,_ in press.
+leaves.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151722)  _PLoS ONE_ 11(3): e0151722. doi:10.1371/journal.pone.0151722
 
 * Franck, C., W. Ip, A. Bae, N. Franck, E. Bogart, and T. T. Le
 (2008). Contact-mediated cell-assisted cell proliferation in a model
