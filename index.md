@@ -1,18 +1,23 @@
 ---
 layout: default
 ---
-I am a postdoc in the lab of [Georg Gerber](http://gerber.bwh.harvard.edu) at Brigham and Women's Hospital.
 
-## Research
+I build tools to extract useful information from complex biological data.
 
-I develop computational tools to help understand microbial communities
-and their impact on human health.  My current project is a method to
-infer interpretable predictive models of health outcomes from human
-microbiome time series data. I've also worked on models for the growth
-of engineered microbial consortia and connections between the
-microbiome and bile acid levels in _C. difficile_ infection.
+## Research experience
 
-My thesis research, with [Chris
+As a postdoc in the lab of [Georg
+Gerber](http://gerber.bwh.harvard.edu) at Brigham and Women's
+Hospital, I developed computational tools to help understand microbial
+communities and their impact on human health.  My primary project was
+[a method to infer interpretable predictive models of health outcomes
+from human microbiome time series
+data](http://github.com/gerberlab/mitre). I also worked on models
+for the growth of engineered microbial consortia and connections
+between the microbiome and bile acid levels in _C. difficile_
+infection.
+
+My PhD thesis research, with [Chris
 Myers](http://cbsu.tc.cornell.edu/staff/myers/) at Cornell University,
 focused on genome-scale models of metabolism in C4 plants. I created
 [software to construct and solve flux balance analysis problems with
@@ -23,6 +28,7 @@ a method to simulate evolution-like paths through high-dimensional
 phenotypic fitness landscapes.
 
 ## Publications
+* __Bogart, E.__  and G. K. Gerber (2017). MITRE: predicting host status from microbiota time-series data. Submitted.
 
 * Bucci, V., B. Tzen, N. Li, M. Simmons, T. Tanoue, __E. Bogart__,
 L. Deng, V. Yeliseyev, M. L. Delaney, Q. Liu, B. Olle, R. R. Stein,
