@@ -62,5 +62,5 @@ shaken cell culture.  _Phys. Rev. E_ 77: 041905
 * [CV](eli_bogart_cv.pdf)
 * [Github](http://github.com/ebogart)
 * [Twitter](http://twitter.com/eli_bogart)
-* Email: ebogart at bwh dot harvard dot edu
+* Email: eli at elibogart dot net
 
