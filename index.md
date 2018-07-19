@@ -4,7 +4,9 @@ layout: default
 
 I build tools to extract useful information from complex biological data.
 
-## Research experience
+Currently, I'm a senior scientist at [Kintai Therapeutics](http://kintaitx.com).
+
+## Previous research experience
 
 As a postdoc in the lab of [Georg
 Gerber](http://gerber.bwh.harvard.edu) at Brigham and Women's
