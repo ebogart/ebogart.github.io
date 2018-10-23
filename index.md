@@ -30,7 +30,7 @@ a method to simulate evolution-like paths through high-dimensional
 phenotypic fitness landscapes.
 
 ## Publications
-* __Bogart, E.__  and G. K. Gerber (2018). MITRE: predicting host status from microbiota time-series data. Submitted; [available on bioRxiv.](https://www.biorxiv.org/content/early/2018/10/18/447250)
+* __Bogart, E.__ , R. Creswell, and G. K. Gerber (2018). MITRE: predicting host status from microbiota time-series data. Submitted; [available on bioRxiv.](https://www.biorxiv.org/content/early/2018/10/18/447250)
 
 * Bucci, V., B. Tzen, N. Li, M. Simmons, T. Tanoue, __E. Bogart__,
 L. Deng, V. Yeliseyev, M. L. Delaney, Q. Liu, B. Olle, R. R. Stein,
