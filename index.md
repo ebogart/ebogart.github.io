@@ -4,7 +4,7 @@ layout: default
 
 I build tools to extract useful information from complex biological data.
 
-Currently, I'm a senior scientist at [Kintai Therapeutics](http://kintaitx.com).
+Currently, I'm a principal scientist at [Kintai Therapeutics](http://kintaitx.com).
 
 ## Previous research experience
 
@@ -30,7 +30,7 @@ a method to simulate evolution-like paths through high-dimensional
 phenotypic fitness landscapes.
 
 ## Publications
-* __Bogart, E.__ , R. Creswell, and G. K. Gerber (2018). MITRE: predicting host status from microbiota time-series data. Submitted; [available on bioRxiv.](https://www.biorxiv.org/content/early/2018/10/18/447250)
+* __Bogart, E.__ , R. Creswell, and G. K. Gerber (2019). [MITRE: inferring features from microbiota time-series data linked to host status.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1788-y) _Genome Biology_ 20:186.
 
 * Bucci, V., B. Tzen, N. Li, M. Simmons, T. Tanoue, __E. Bogart__,
 L. Deng, V. Yeliseyev, M. L. Delaney, Q. Liu, B. Olle, R. R. Stein,
