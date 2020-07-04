@@ -2,9 +2,16 @@
 layout: default
 ---
 
-I build tools to extract useful information from complex biological data.
+I build tools, teams, and research programs to turn complex biological data into useful information.
 
 Currently, I'm a principal scientist at [Kintai Therapeutics](http://kintaitx.com).
+
+## Links
+
+* [CV](eli_bogart_cv.pdf)
+* Email: eli at elibogart dot net
+* [Github](http://github.com/ebogart)
+* [Twitter](http://twitter.com/eli_bogart) (never updated)
 
 ## Previous research experience
 
@@ -56,13 +63,4 @@ _PLoS ONE_ 11(3): e0151722.
 eukaryotic single-cell organism: an explanation for the lag phase in
 shaken cell culture.  _Phys. Rev. E_ 77: 041905
 
-* __Bogart, E__. and C. R. Myers. Genome-scale modeling of the
-  evolutionary path to C4 photosynthesis. _In preparation_.
-
-## Links
-
-* [CV](eli_bogart_cv.pdf)
-* [Github](http://github.com/ebogart)
-* [Twitter](http://twitter.com/eli_bogart)
-* Email: eli at elibogart dot net
 
