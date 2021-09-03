@@ -4,7 +4,7 @@ layout: default
 
 I build tools, teams, and research programs to turn complex biological data into useful information.
 
-Currently, I'm a principal scientist at [Kintai Therapeutics](http://kintaitx.com).
+Currently, I'm a lead data scientist at [CAMP4 Therapeutics](https://camp4tx.com).
 
 ## Links
 
@@ -13,28 +13,18 @@ Currently, I'm a principal scientist at [Kintai Therapeutics](http://kintaitx.co
 * [Github](http://github.com/ebogart)
 * [Twitter](http://twitter.com/eli_bogart) (never updated)
 
-## Previous research experience
+## Previous experience
 
-As a postdoc in the lab of [Georg
-Gerber](http://gerber.bwh.harvard.edu) at Brigham and Women's
-Hospital, I developed computational tools to help understand microbial
-communities and their impact on human health.  My primary project was
-[a method to infer interpretable predictive models of health outcomes
-from human microbiome time series
-data](http://github.com/gerberlab/mitre). I also worked on models
-for the growth of engineered microbial consortia and connections
-between the microbiome and bile acid levels in _C. difficile_
-infection.
+At Kintai Therapeutics (now part of [Senda Biosciences](https://sendabiosciences.com)), 
+I developed methods and pipelines for metagenomic data analysis, cloud computing infrastructure, and visualization tools; grew the computational biology team from 1 to 3 FTE; and led our efforts to strategically apply machine learning  techniques to accelerate the drug discovery process.
+
+As a postdoc in the lab of [Georg Gerber](http://gerber.bwh.harvard.edu) at Brigham and Women's
+Hospital, I developed [computational tools to help understand microbial
+communities and their impact on human health](http://github.com/gerberlab/mitre). 
 
 My PhD thesis research, with [Chris
 Myers](http://cbsu.tc.cornell.edu/staff/myers/) at Cornell University,
-focused on genome-scale models of metabolism in C4 plants. I created
-[software to construct and solve flux balance analysis problems with
-nonlinear constraints](http://github.com/ebogart/fluxtools), a new
-reconstruction of the metabolic network of _Zea mays_, an algorithm
-for inferring fluxes in metabolic models from transcriptomic data, and
-a method to simulate evolution-like paths through high-dimensional
-phenotypic fitness landscapes.
+focused on [nonlinear genome-scale optimization models](http://github.com/ebogart/fluxtools) of [metabolism in C4 plants](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151722). 
 
 ## Publications
 * __Bogart, E.__ , R. Creswell, and G. K. Gerber (2019). [MITRE: inferring features from microbiota time-series data linked to host status.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1788-y) _Genome Biology_ 20:186.
