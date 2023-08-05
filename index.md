@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I build tools, teams, and research programs to turn complex biological data into useful information.
+I lead research projects at the intersection of machine learning and experimental biology.
 
 Currently, I'm a lead scientist at [Deep Genomics](https://deepgenomics.com).
 
@@ -10,6 +10,7 @@ Currently, I'm a lead scientist at [Deep Genomics](https://deepgenomics.com).
 
 * [CV](eli_bogart_cv.pdf)
 * Email: eli at elibogart dot net
+* [LinkedIn](www.linkedin.com/in/eli-bogart-7689b698)
 * [Github](http://github.com/ebogart)
 * [Twitter](http://twitter.com/eli_bogart) (never updated)
 
