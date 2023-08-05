@@ -1,7 +1,7 @@
 # Site settings
 title: Eli Bogart
 tag_text: Eli Bogart
-description: Computational biology grad student at Cornell.
+description: Machine learning for drug discovery
 
 # Build settings
 markdown: kramdown
