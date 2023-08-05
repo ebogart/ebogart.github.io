@@ -4,7 +4,7 @@ layout: default
 
 I build tools, teams, and research programs to turn complex biological data into useful information.
 
-Currently, I'm a lead data scientist at [CAMP4 Therapeutics](https://camp4tx.com).
+Currently, I'm a lead scientist at [Deep Genomics](https://deepgenomics.com).
 
 ## Links
 
@@ -15,16 +15,25 @@ Currently, I'm a lead data scientist at [CAMP4 Therapeutics](https://camp4tx.com
 
 ## Previous experience
 
-At Kintai Therapeutics (now part of [Senda Biosciences](https://sendabiosciences.com)), 
-I developed methods and pipelines for metagenomic data analysis, cloud computing infrastructure, and visualization tools; grew the computational biology team from 1 to 3 FTE; and led our efforts to strategically apply machine learning  techniques to accelerate the drug discovery process.
+Before joining Deep Genomics, I developed machine learning models of
+transcriptional regulation at [CAMP4 Therapeutics](https://camp4tx.com).
+Previously, at Kintai Therapeutics (now part of
+[Senda Biosciences](https://sendabiosciences.com)), I
+developed methods and pipelines for metagenomic data analysis, cloud
+computing infrastructure, and visualization tools; grew the
+computational biology team from 1 to 3 FTE; and led our efforts to
+strategically apply machine learning techniques to accelerate the drug
+discovery process.
 
-As a postdoc in the lab of [Georg Gerber](http://gerber.bwh.harvard.edu) at Brigham and Women's
-Hospital, I developed [computational tools to help understand microbial
-communities and their impact on human health](http://github.com/gerberlab/mitre). 
-
-My PhD thesis research, with [Chris
-Myers](http://cbsu.tc.cornell.edu/staff/myers/) at Cornell University,
-focused on [nonlinear genome-scale optimization models](http://github.com/ebogart/fluxtools) of [metabolism in C4 plants](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151722). 
+In my academic work, I developed [computational tools to help
+understand microbial communities and their impact on human
+health](http://github.com/gerberlab/mitre) as a postdoc in the lab of
+[Georg Gerber](http://gerber.bwh.harvard.edu) at Brigham and Women's
+Hospital, and [nonlinear genome-scale optimization
+models](http://github.com/ebogart/fluxtools) of [metabolism in C4
+plants](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151722)
+during my PhD thesis research with [Chris
+Myers](http://cbsu.tc.cornell.edu/staff/myers/) at Cornell University.
 
 ## Publications
 * __Bogart, E.__ , R. Creswell, and G. K. Gerber (2019). [MITRE: inferring features from microbiota time-series data linked to host status.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1788-y) _Genome Biology_ 20:186.
