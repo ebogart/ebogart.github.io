@@ -4,8 +4,6 @@ layout: default
 
 I lead research projects at the intersection of machine learning and experimental biology.
 
-Currently, I'm a lead scientist at [Deep Genomics](https://deepgenomics.com).
-
 ## Links
 
 * [CV](eli_bogart_cv.pdf)
@@ -16,6 +14,7 @@ Currently, I'm a lead scientist at [Deep Genomics](https://deepgenomics.com).
 
 ## Previous experience
 
+Most recently, I was a lead scientist at [Deep Genomics](https://deepgenomics.com).
 Before joining Deep Genomics, I developed machine learning models of
 transcriptional regulation at [CAMP4 Therapeutics](https://camp4tx.com).
 Previously, at Kintai Therapeutics (now part of
