@@ -8,7 +8,7 @@ I lead research projects at the intersection of machine learning and experimenta
 
 * [CV](eli_bogart_cv.pdf)
 * Email: eli at elibogart dot net
-* [LinkedIn](www.linkedin.com/in/eli-bogart-7689b698)
+* [LinkedIn](http://www.linkedin.com/in/eli-bogart-7689b698)
 * [Github](http://github.com/ebogart)
 * [Twitter](http://twitter.com/eli_bogart) (never updated)
 
