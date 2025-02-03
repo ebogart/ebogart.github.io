@@ -10,20 +10,17 @@ I lead research projects at the intersection of machine learning and experimenta
 * Email: eli at elibogart dot net
 * [LinkedIn](http://www.linkedin.com/in/eli-bogart-7689b698)
 * [Github](http://github.com/ebogart)
-* [Twitter](http://twitter.com/eli_bogart) (never updated)
 
-## Previous experience
+## Experience
 
-Most recently, I was a lead scientist at [Deep Genomics](https://deepgenomics.com).
-Before joining Deep Genomics, I developed machine learning models of
-transcriptional regulation at [CAMP4 Therapeutics](https://camp4tx.com).
-Previously, at Kintai Therapeutics (now part of
-[Senda Biosciences](https://sendabiosciences.com)), I
-developed methods and pipelines for metagenomic data analysis, cloud
-computing infrastructure, and visualization tools; grew the
-computational biology team from 1 to 3 FTE; and led our efforts to
-strategically apply machine learning techniques to accelerate the drug
-discovery process.
+Most recently, I led a combined computational/experimental team
+developing a novel approach to RNA editing guide design at [Deep
+Genomics](https://deepgenomics.com). Before that, I developed
+predictive models of transcriptional regulation at [CAMP4
+Therapeutics](https://camp4tx.com); and built the computational
+biology team at Kintai Therapeutics (now part of
+[Sail](https://www.sail.bio)), where I was also responsible for
+establishing the company's machine learning strategy.
 
 In my academic work, I developed [computational tools to help
 understand microbial communities and their impact on human
